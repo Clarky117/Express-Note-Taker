@@ -19,7 +19,5 @@ router.get('/notes', (req, res) => {
 
 // * `GET *` should return a 404 error.
 
-
-
 // export router
 module.exports = router;
