@@ -1,14 +1,21 @@
 // import node module express
 const express = require('express');
 
+// import webroutes and apiroutes
+const webRoutes = require('./routes/web');
+// const apiRoutes = require('./routes/api');
+
 // set up server for heroku and local machine
 const PORT = process.env.PORT || 3001;
 
 // create app instance
 const app = express();
 
-// define the api endpoint
+// serve static middleware
+app.use(express.static('public')); 
 
+// load web routes
+app.use(webRoutes);
 
 
 // The following API routes should be created:
