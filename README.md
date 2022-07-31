@@ -8,7 +8,7 @@
 3. [Skills Used](#skills-used)
 4. [Note Taker Visuals](#note-taker-visuals)
 5. [Things To Work On](#things-i-want-to-work-on)
-6. [Repository and Youtube Video](#links-to-repository-and-deployed-video)
+6. [Repository and Live App](#links-to-repository-and-deployed-application)
   
 ## Description
 
@@ -44,7 +44,7 @@ Memorising some of the more repetitive things of setting up an express server in
 
 Understanding the ins and outs of Insomnia to more so test GET and POST requests to rely less on VS Codes live server. Not only this but also getting more familiar with Heroku and deploying applications on there as have become so familiar with Github after the last few months.
 
-## Links to Repository and Deployed Video
+## Links to Repository and Deployed Application
 
 - Repository - [Clarky's Repo](https://github.com/Clarky117/Express-Note-Taker)
-- Live Video - [Heroku]()
+- Live App - [Heroku](https://clarkys-express-note-taker.herokuapp.com/)
