@@ -12,7 +12,7 @@
   
 ## Description
 
-In week 11 of the UWA coding bootcamp we have been tasked with connecting the front end to the back end of a note taker application in which the front end has already been designed and supplied.
+Connected the front end to the back end of a note taker application in which the front end has already been designed and supplied.
 
 ## Key Points
 
